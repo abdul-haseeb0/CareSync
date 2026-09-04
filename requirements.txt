@@ -1,0 +1,10 @@
+flask
+mysql-connector-python
+bcrypt
+passlib[bcrypt]
+python-jose[cryptography]
+SQLAlchemy
+requests
+groq
+openai
+google-generativeai
