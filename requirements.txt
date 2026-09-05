@@ -1,6 +1,6 @@
 flask
 mysql-connector-python
-bcrypt
+bcrypt==4.0.1
 passlib[bcrypt]
 python-jose[cryptography]
 SQLAlchemy
